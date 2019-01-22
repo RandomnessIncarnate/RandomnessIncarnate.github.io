@@ -310,7 +310,7 @@ button{
   text-align: center;
 }
 button:hover{
-  background: #64ffb617;
+  background: rgba(100, 255, 182, 0.09019);
 }
 
 footer {
